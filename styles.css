@@ -1,0 +1,77 @@
+body {
+    
+    background-image: url('https://png.pngtree.com/background/20220715/original/pngtree-world-environment-day-june-5-world-environment-day-green-cartoon-vector-picture-image_1626340.jpg'); /* Use your image URL */
+    background-size: contain; /* Ensures the image is fully visible and scaled */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the image horizontally and vertically */
+    background-color: #000; 
+
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f7f2;
+}
+
+header {
+    background-image: url('environment-bg.jpg');
+    color: #ffffff;
+    text-align: center;
+    padding: 50px 0;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+#definition {
+    background-color: #ffffff;
+    padding: 40px;
+    margin: 20px auto;
+    max-width: 900px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+#buttons {
+    padding: 50px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.button {
+    background-color: #00695c;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin: 10px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #004d40;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
