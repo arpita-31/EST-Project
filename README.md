@@ -1,2 +1,2 @@
 # EST-Project
-This is our est website
+This is our EST website
